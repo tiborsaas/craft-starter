@@ -33,14 +33,7 @@ Delete Craft's `public/index.php` and use the `_index.php` instead. Or _alternat
 
 ## Step 2
 
-Create this file in the `web` directory and name it `env.php`
-
-    <?php
-    define("CRAFT_DB_HOST","localhost");
-    define("CRAFT_DB_USER","root");
-    define("CRAFT_DB_NAME","secret-nsa-documents");
-    define("CRAFT_DB_PASS","12345");
-
+Rename `web/_env.pho` to `env.php` and set the correct credentials.
 
 # You are all set, proceed with installing Craft as usual
 

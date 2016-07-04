@@ -1,0 +1,29 @@
+
+/**
+ * Main entry point
+ */
+
+@import 'variables';
+@import 'defaults';
+@import 'responsive';
+@import '../node_modules/normalize.css/normalize.css';
+
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+.wrapper {
+	width: 100% ;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	h1{
+		text-align: center;
+		font-size: 7em;
+		font-style: italic;
+		color: #fff;
+	}
+}

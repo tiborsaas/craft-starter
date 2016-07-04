@@ -1,0 +1,20 @@
+# Custom enhancements
+# ----------------------------------------------------------------------
+env.php
+
+# Craft runtime and backups folders
+# ----------------------------------------------------------------------
+craft/app/*
+craft/config/*
+craft/storage/backups/*
+
+# Misc files
+# ----------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.sublime-workspace
+*.sublime-project

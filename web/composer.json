@@ -1,0 +1,5 @@
+{
+    "require": {
+        "itmundi/schematic": "^3.*"
+    }
+}

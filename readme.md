@@ -2,13 +2,13 @@
 
 I've put together a small set of defaults to kickstart the development of a new Craft CMS project.
 
-# Features
+## Features
 
  - Ready to version control: files that need not to be in GIT are excluded
  - Database config is extracted to the `web/env.php` file
  - The `index.php` is also modified to require the environment file
  
-# Folders
+## Folders
 
  - `/static` folder contains a Gulp setup that compiles SASS + JS to a minified version
  - `/temp` folder is just my convention to store client assets there, they ignored by GIT

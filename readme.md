@@ -38,7 +38,7 @@ _alternatively_ simply copy and paste this to the beginning of the `index.php` f
 
 ## Step 2
 
-Rename `web/craft/config/_db.pho` to `db.php`. Modify it to your taste.
+Rename `web/craft/config/_db.php` to `db.php`. Modify it to your taste.
 
 ## Step 3
 

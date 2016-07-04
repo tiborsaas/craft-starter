@@ -42,7 +42,7 @@ Rename `web/craft/config/_db.php` to `db.php`. Modify it to your taste.
 
 ## Step 3
 
-Rename `web/_env.pho` to `env.php` and set the correct credentials.
+Rename `web/_env.php` to `env.php` and set the correct credentials.
 
 ## You are all set, proceed with installing Craft as usual
 

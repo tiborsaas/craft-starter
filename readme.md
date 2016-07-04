@@ -31,7 +31,7 @@ Delete Craft's `public/index.php` and use the `_index.php` instead. Or _alternat
     	exit('<h1>Fatal error: no database environment file found!</h1><p>Please check the readme.md for instructions.<p>');
     }
 
-# Step 2
+## Step 2
 
 Create this file in the `web` directory and name it `env.php`
 

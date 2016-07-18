@@ -11,7 +11,7 @@ I've put together a small set of defaults to kickstart the development of a new 
  
 ## Folders
 
- - `/static` folder contains a Gulp setup that compiles SASS + JS to a minified version
+ - `/static` folder contains a Gulp setup that compiles SASS + JS to a minified version. It helps the kickstart of a new project's frontend side, but it's undrelated to Craft. Feel free to delete it.
  - `/temp` folder is just my convention to store client assets there, they ignored by GIT
  - `/web` is where you should copy the Craft installation
 

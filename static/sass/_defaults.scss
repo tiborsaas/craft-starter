@@ -4,8 +4,9 @@
  */
 
 body{
-	background: tomato;
 	font-family: $fontSans;
+	background-size: cover;
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAADCAYAAABfwxXFAAAAVklEQVQIWwXBMQ5AMBSA4f8ZSpqIpBqDpRGcwKBuYTI4vHMI1ef7JG6H5vzQK0ylIZjMaD46m5Bz2XWtIXbC7BKNfyjaF1yBXOehQ7ghvOAt2YJWAiR+V+cXW8j39q4AAAAASUVORK5CYII=");
 }
 
 a {

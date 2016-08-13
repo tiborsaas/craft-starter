@@ -4,7 +4,6 @@ env.php
 
 # Craft runtime and backups folders
 # ----------------------------------------------------------------------
-craft/app/*
 craft/config/*
 !craft/config/_db.php
 craft/storage/backups/*
